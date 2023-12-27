@@ -1,3 +1,5 @@
+# Python Project - Calculator - Using Tkinter 
+
 from tkinter import Tk, Entry, Button, StringVar
 
 class Calculator:
